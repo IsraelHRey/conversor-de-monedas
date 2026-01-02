@@ -23,4 +23,9 @@
 4. Ejecuta la clase `Principal.java`.
 5. Selecciona una opción del menú y sigue las instrucciones en consola.
 
+## Muestra de ejecución:
+
+<img width="497" height="523" alt="image" src="https://github.com/user-attachments/assets/726ae114-0a77-4b3a-b9c2-7fa3611c79b3" />
+
+
 Desarrollado por IsraelHRey
